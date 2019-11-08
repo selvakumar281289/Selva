@@ -8,4 +8,7 @@ public void employeeName() {
 	System.out.println("This is Employee name");
 	
 }
+public static void main(String[] args) {
+	
+}
 }
